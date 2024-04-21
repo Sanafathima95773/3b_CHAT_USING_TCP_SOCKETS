@@ -34,10 +34,9 @@ while True:
             c.send(msg.encode())
 ```
 ## OUPUT
-
-server:
+server
 ![image](https://github.com/Sanafathima95773/3b_CHAT_USING_TCP_SOCKETS/assets/147084627/64714e9d-aeca-4209-81e8-3d127e01a81d)
-client:
+client
 ![image](https://github.com/Sanafathima95773/3b_CHAT_USING_TCP_SOCKETS/assets/147084627/88aa4901-d47f-4a43-8254-5946e26e23ec)
 
 
